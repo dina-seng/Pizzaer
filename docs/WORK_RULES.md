@@ -4,6 +4,7 @@
 So we all follow the **same rules**. A pull request (PR) is merged **only if it passes the checklist for your role**.
 
 How to use this file:
+0. Not set up yet? Do [QUICK_START.md](QUICK_START.md) first.
 1. Read **Part 1 (rules for everyone)** once.
 2. Read **your role guide** in Part 2.
 3. Before you open a PR, tick **your checklist**. Dina checks it before merging.

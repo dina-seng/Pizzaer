@@ -4,6 +4,8 @@
 > Engine: **Unity 6.3 (6000.3.8f1)**, URP, PC
 > Deadline: **Tue, Nov 10, 2026** — must be playable in Unity
 
+> 👉 **New to the team? Start with [QUICK_START.md](QUICK_START.md).**
+
 ---
 
 ## 1. The idea in one sentence

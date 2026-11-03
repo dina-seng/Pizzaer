@@ -64,6 +64,7 @@ IDs like `A1` are for this document. GitHub gives its own numbers (`#12`). Put t
   - [ ] `Assets/TutorialInfo/`, `Assets/Readme.asset`, and `Assets/Scenes/SampleScene.unity` deleted (inside Unity)
   - [ ] All folders from ARCHITECTURE.md §2 exist (each with an empty `.gitkeep` file so Git keeps it)
   - [ ] Tag `Zone` added
+  - [ ] OS junk lines (`.DS_Store`, `Thumbs.db`, `desktop.ini`) added to `.gitignore` (GITHUB_GUIDE.md Step 3b)
   - [ ] `MainMenu.unity` and `Town.unity` exist; Build Profiles scene list = `0 MainMenu`, `1 Town`
   - [ ] Project opens with 0 errors after a fresh clone
 
@@ -78,7 +79,7 @@ IDs like `A1` are for this document. GitHub gives its own numbers (`#12`). Put t
 
 #### A3 · Team onboarding (each person does this)
 - **Owner:** Everyone (Dina, Viset, Panha, Soth) · **Day:** 1 · **Labels:** `setup`
-- **Description:** Install Unity 6000.3.8f1, Git, Git LFS, and GitHub Desktop. Clone the repo, open the project, create your Sandbox scene, and open your first PR.
+- **Description:** Follow [QUICK_START.md](QUICK_START.md) parts A and B: install Unity 6000.3.8f1, Git, Git LFS, and GitHub Desktop, clone the repo, open the project, create your Sandbox scene, and open your first PR. Start **after** Dina's A1 is merged.
 - **Acceptance criteria:**
   - [ ] Unity version is exactly **6000.3.8f1** on all 4 computers
   - [ ] `git lfs install` run once on each computer
