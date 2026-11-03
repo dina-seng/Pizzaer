@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/_Pizzaer/Scenes/MainMenu.unity
+    guid: 449fe94a5be4461f99fd38d42d95e3ff
+  - enabled: 1
+    path: Assets/_Pizzaer/Scenes/Town.unity
+    guid: 345f38c74e5e4757a0fb23fd2be1e825
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

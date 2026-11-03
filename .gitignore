@@ -114,3 +114,8 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
 docs/project_management_rules.md
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
